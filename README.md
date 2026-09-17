@@ -178,10 +178,6 @@ Key outcomes include:
 * Built an interactive Power BI dashboard for easier data interpretation.
 * Converted analytical findings into a structured report and presentation.
 
-> Replace the above points with your actual numerical findings where possible.
-
----
-
 ## 📄 Project Report
 
 A detailed report was created covering:
